@@ -3,3 +3,33 @@
 pending_draft.json
 webhook_server.log
 
+# AK-Threads-Booster local/user data
+threads_daily_tracker.json
+style_guide.md
+concept_library.md
+threads_booster_config.json
+threads_skill_learnings.log
+threads_freshness.log
+threads_refresh.log
+/compiled/
+/idea/
+/topics/
+
+# Environment variables / secrets
+.env
+.env.*
+
+# Python/runtime caches
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.venv/
+env/
+
+# OS/IDE
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
