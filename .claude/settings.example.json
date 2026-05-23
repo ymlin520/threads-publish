@@ -1,0 +1,12 @@
+{
+  "env": {
+    "THREADS_ACCESS_TOKEN": "",
+    "THREADS_USER_ID": "",
+    "LINE_ACCESS_TOKEN": "",
+    "LINE_CHANNEL_SECRET": "",
+    "LINE_USER_ID": "",
+    "LINE_WEBHOOK_URL": "",
+    "LINE_WEBHOOK_SECRET": ""
+  }
+}
+
